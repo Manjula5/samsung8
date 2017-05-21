@@ -1,0 +1,2 @@
+# samsung8
+newmobile
